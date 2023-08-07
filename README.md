@@ -1,2 +1,2 @@
 # Restaurant-Reservation-iOS
- Restaurant reservation app
+ Restaurant-Reservation-iOS
